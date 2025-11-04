@@ -7,7 +7,7 @@ den ene af mine koder, tjekker, bare om en token er upper, altså om den har sto
 
 den anden kode tjekker bare hvert tegn i teksten for ?!. og laver en return på true eller false,
 
-et tredje kode Returnerer sidste tegn i en streng, eller '\0' hvis strengen er tom.
+et tredje kode Returnerer sidste tegn , eller '\0' hvis pladsen er tom.
 
 tildsist er der den fjere kode, som tjekker om noget er printbart, det kan være om det er tegn eller noget som den ikke kan printe, så skal den erstatte det med mellemrum
 
